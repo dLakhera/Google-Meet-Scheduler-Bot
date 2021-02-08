@@ -16,4 +16,3 @@
 
 - Update config.js file with your Google Credentials and MonogDB SRV
 
-[Credit for google-meet file](https://github.com/AmanRaj1608/Google-Meet-Scheduler/blob/master/google-meet.js)
